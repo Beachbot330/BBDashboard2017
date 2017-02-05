@@ -160,6 +160,8 @@
 				<Item Name="Retrieve RPC Response.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Retrieve RPC Response.vi"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
+				<Item Name="SD Read Name Cache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read Name Cache.vi"/>
+				<Item Name="SD Read Number.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read Number.vi"/>
 				<Item Name="Sequence.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Sequence.ctl"/>
 				<Item Name="Skip to RPC Outputs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Skip to RPC Outputs.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
@@ -252,7 +254,6 @@
 			<Item Name="Compute DistanceToTarget2.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Compute DistanceToTarget2.vi"/>
 			<Item Name="Normalize Coordinates.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Normalize Coordinates.vi"/>
 			<Item Name="Label Targets2.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Label Targets2.vi"/>
-			<Item Name="Calibration Helper2.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Calibration Helper2.vi"/>
 			<Item Name="Get camera FOVs.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Get camera FOVs.vi"/>
 			<Item Name="Rectangle Comparison.vi" Type="VI" URL="../Documents/LabVIEW Data/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Rectangle Comparison.vi"/>
 		</Item>
