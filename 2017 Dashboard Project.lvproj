@@ -22,6 +22,7 @@
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="BB_Image_Process.vi" Type="VI" URL="../BB_Image_Process.vi"/>
+		<Item Name="BB_Image_Process_Vertical.vi" Type="VI" URL="../BB_Image_Process_Vertical.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
@@ -293,6 +294,7 @@
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
 			<Item Name="BB_AutonomousSelector.lvlib" Type="Library" URL="../Downloads/Beachbot2016Dash-master (1)/Beachbot2016Dash-master/Custom/BB_AutonomousSelector.lvlib"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Vertical Rectangle Comparison.vi" Type="VI" URL="../Vision Support Code/Vertical Rectangle Comparison.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
