@@ -186,7 +186,6 @@
 				<Item Name="Buffer Assignments.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Buffer Assignments.vi"/>
 				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="IMAQ SetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ SetImageSize"/>
-				<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="../Vision Support Code/WPI_CameraRead MJPG for Dashboard.vi"/>
 				<Item Name="WPI_CameraAdd Percent Codes.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraAdd Percent Codes.vi"/>
 				<Item Name="WPI_CameraDraw Text to Image.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraDraw Text to Image.vi"/>
 				<Item Name="WPI_CameraParse URL.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraParse URL.vi"/>
@@ -295,6 +294,7 @@
 			<Item Name="BB_AutonomousSelector.lvlib" Type="Library" URL="../Downloads/Beachbot2016Dash-master (1)/Beachbot2016Dash-master/Custom/BB_AutonomousSelector.lvlib"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Vertical Rectangle Comparison.vi" Type="VI" URL="../Vision Support Code/Vertical Rectangle Comparison.vi"/>
+			<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="../Vision Support Code/WPI_CameraRead MJPG for Dashboard.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
