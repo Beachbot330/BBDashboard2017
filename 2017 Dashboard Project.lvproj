@@ -270,7 +270,6 @@
 				<Item Name="SD Read String Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read String Array.vi"/>
 				<Item Name="SD Read String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read String.vi"/>
 				<Item Name="SD Write String Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Write String Array.vi"/>
-				<Item Name="BB_WPI_CameraDetermine Camera Type.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/BB_WPI_CameraDetermine Camera Type.vi"/>
 			</Item>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -295,6 +294,8 @@
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Vertical Rectangle Comparison.vi" Type="VI" URL="../Vision Support Code/Vertical Rectangle Comparison.vi"/>
 			<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="../Vision Support Code/WPI_CameraRead MJPG for Dashboard.vi"/>
+			<Item Name="BB Write Target Angle Vertical.vi" Type="VI" URL="../Vision Support Code/BB Write Target Angle Vertical.vi"/>
+			<Item Name="BB_WPI_CameraDetermine Camera Type.vi" Type="VI" URL="../Vision Support Code/BB_WPI_CameraDetermine Camera Type.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
