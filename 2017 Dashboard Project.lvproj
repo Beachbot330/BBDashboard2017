@@ -332,7 +332,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E1AF8660-3283-481A-9FBD-F1AACA00906B}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B9EDAFAF-1282-411B-8611-9F862EEC1369}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
