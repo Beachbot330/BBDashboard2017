@@ -309,6 +309,9 @@
 			<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="../Vision Support Code/WPI_CameraRead MJPG for Dashboard.vi"/>
 			<Item Name="BB Write Target Angle Vertical.vi" Type="VI" URL="../Vision Support Code/BB Write Target Angle Vertical.vi"/>
 			<Item Name="BB_WPI_CameraDetermine Camera Type.vi" Type="VI" URL="../Vision Support Code/BB_WPI_CameraDetermine Camera Type.vi"/>
+			<Item Name="System.Speech" Type="Document" URL="System.Speech">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
